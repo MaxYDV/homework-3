@@ -38,7 +38,7 @@
 #     num2 = int(input("Enter second number: "))
 #
 #     if num1 == num2:
-#         print("Numbers 2 and 3 are equal to")
+#         print(f"Numbers {num1} and {num2} are equal to")
 #     else:
 #         if num1 < num2:
 #             print(num1, num2)
